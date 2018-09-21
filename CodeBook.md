@@ -5,6 +5,7 @@
 ## Tamara Rosner
 ==================================================================
 
+### IDENTIFIER VARIABLES
 subject: column position 1
     Subject number
 	Integer designating a particular subject
