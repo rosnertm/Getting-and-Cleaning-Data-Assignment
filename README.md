@@ -25,8 +25,7 @@ the experiments conducted to obtain those data.
    and outputting that to a new table.
 
 
-### The final data set (created by 'run_analysis.R' and saved in 'tidy_phone_data.csv') fulfills the 
-requirements for tidy data, as specified by Hadley Wickham: http://vita.had.co.nz/papers/tidy-data.pdf
+### The final data set (created by 'run_analysis.R' and saved in 'tidy_phone_data.csv') fulfills the requirements for tidy data, as specified by Hadley Wickham: http://vita.had.co.nz/papers/tidy-data.pdf
 1. Each variable forms a column: each column holds information for a single variable. 
 2. Each observation forms a row: there is one row for each subject performing one of the six activities.
 3. Each type of observational unit forms a table: The table contains data on the mean and standard deviation
