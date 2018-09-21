@@ -1,5 +1,5 @@
 ==================================================================
-### Final Assignment for Getting and Cleaning Data
+# Final Assignment for Getting and Cleaning Data
 ## Version 1.0
 ==================================================================
 ## Tamara Rosner
@@ -13,7 +13,7 @@ the experiments conducted to obtain those data.
 
 ==================================================================
 
-# The following were the basic steps taken when cleaning the data:
+### The following were the basic steps taken when cleaning the data:
 1. Replacing variable names in the test set and training set data with variable names obtained 
    from the 'features' file (listed as step 4 in assignment).
 2. Merging the test and training set data together (along with subject and activity information).
@@ -25,7 +25,7 @@ the experiments conducted to obtain those data.
    and outputting that to a new table.
 
 
-# The final data set (created by 'run_analysis.R' and saved in 'tidy_phone_data.csv') fulfills the 
+### The final data set (created by 'run_analysis.R' and saved in 'tidy_phone_data.csv') fulfills the 
 requirements for tidy data, as specified by Hadley Wickham: http://vita.had.co.nz/papers/tidy-data.pdf
 1. Each variable forms a column: each column holds information for a single variable. 
 2. Each observation forms a row: there is one row for each subject performing one of the six activities.
@@ -35,7 +35,7 @@ requirements for tidy data, as specified by Hadley Wickham: http://vita.had.co.n
 
 =========================================
 
-# The current dataset includes the following files:
+### The current dataset includes the following files:
 
 - 'README.md'
 
