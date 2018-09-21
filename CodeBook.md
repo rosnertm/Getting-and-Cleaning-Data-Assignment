@@ -19,10 +19,9 @@ activity: column position 2
 	walking_upstairs
 	walking_downstairs
 
-## NOTE: THE REST OF THE LISTED VARIABLES REPRESENT AVERAGES FOR EACH SUBJECT AND ACTIVITY.FOR EXAMPLE, MULTIPLE MEASUREMENTS WERE TAKEN FROM SUBJECT 1 WHILE SITTING; THE VARIABLES HERE ARE THE AVERAGE OF ALL OF THOSE MEASUREMENTS OF THAT PARTICULAR VARIABLE.
+### NOTE: The rest of the listed variables represent averages for each subject and activity. For example, multiple measurements were taken from subject 1 while sitting; the variables here are the average of all those measurements of that particular variable.
 
-
-# BODY ACCELRATION VARIABLES
+### BODY ACCELRATION VARIABLES
 tBodyAcc-mean()-X: column position 3
     The average body accelaration signal along the X axis
 
@@ -43,7 +42,7 @@ tBodyAcc-std()-Z: column position 8
 
 
 
-# GRAVITY ACCELRATION VARIABLES
+### GRAVITY ACCELRATION VARIABLES
 tGravityAcc-mean()-X: column position 9
     The average gravity accelaration signal along the X axis
 
@@ -64,7 +63,7 @@ tGravityAcc-std()-Z: column position 14
 
 
 
-# BODY JERK ACCELRATION VARIABLES
+### BODY JERK ACCELRATION VARIABLES
 tBodyAccJerk-mean()-X: column position 15
     The average body jerk accelaration signal along the X axis
 
@@ -85,7 +84,7 @@ tBodyAccJerk-std()-Z: column position 20
 
 
 
-# BODY ORIENTATION VARIABLES
+### BODY ORIENTATION VARIABLES
 tBodyGyro-mean()-X: column position 21
     The average body orientation signal along the X axis
 
@@ -106,7 +105,7 @@ tBodyGyro-std()-Z: column position 26
 
 
 
-# BODY JERK ORIENTATION VARIABLES
+### BODY JERK ORIENTATION VARIABLES
 tBodyGyroJerk-mean()-X: column position 27
     The average body jerk orientation signal along the X axis
 
@@ -127,7 +126,7 @@ tBodyGyroJerk-std()-Z: column position 32
 
 
 
-# VARIABLES LOOKING AT THE MAGNITUDE OF THE 3D SIGNALS (X, Y, AND Z) INDICATED ABOVE
+### VARIABLES LOOKING AT THE MAGNITUDE OF THE 3D SIGNALS (X, Y, AND Z) INDICATED ABOVE
 tBodyAccMag-mean(): column position 33
     The magnitude of the average body acceleration based on 3D signals
 
@@ -164,7 +163,7 @@ tBodyGyroJerkMag-std(): column position 42
 
 
 
-# FOURIER TRANSFORM OF BODY ACCELRATION VARIABLES 
+### FOURIER TRANSFORM OF BODY ACCELRATION VARIABLES 
 fBodyAcc-mean()-X: column position 43
     Fourier transform of the average body accelaration signal along the X axis
 
@@ -185,7 +184,7 @@ fBodyAcc-std()-Z: column position 48
 
 
 
-# FOURIER TRANSFORM OF BODY JERK ACCELRATION VARIABLES
+### FOURIER TRANSFORM OF BODY JERK ACCELRATION VARIABLES
 fBodyAccJerk-mean()-X: column position 49
     Fourier transform of the average body jerk accelaration signal along the X axis
 
@@ -206,7 +205,7 @@ fBodyAccJerk-std()-Z: column position 54
 
 
 
-# FOURIER TRANSFORM OF BODY ORIENTATION VARIABLES
+### FOURIER TRANSFORM OF BODY ORIENTATION VARIABLES
 fBodyGyro-mean()-X: column position 55
     Fourier transform of the average body orientation signal along the X axis
 
@@ -227,7 +226,7 @@ fBodyGyro-std()-Z: column position 60
 
 
 
-# FOURIER TRANSFORM OF VARIABLES LOOKING AT THE MAGNITUDE OF THE 3D SIGNALS (X, Y, AND Z) INDICATED ABOVE
+### FOURIER TRANSFORM OF VARIABLES LOOKING AT THE MAGNITUDE OF THE 3D SIGNALS (X, Y, AND Z) INDICATED ABOVE
 fBodyAccMag-mean(): column position 61
     Fourier transform of the magnitude of the average body acceleration based on 3D signals
 
