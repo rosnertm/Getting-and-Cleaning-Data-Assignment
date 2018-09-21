@@ -7,8 +7,8 @@
 
 ### IDENTIFIER VARIABLES
 subject: column position 1
-    Subject number
-	Integer designating a particular subject
+Subject number
+Integer designating a particular subject
 
 
 activity: column position 2
